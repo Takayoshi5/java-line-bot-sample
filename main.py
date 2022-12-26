@@ -11,7 +11,7 @@ from linebot.models import (
 
 app = Flask(__name__)
 
-#環境変数取得
+#環境変数取得aaa
 ACCESS_TOKEN = "UZ+z5conaeMKob3IEvw8X65e0GxjwGQBWFXnIjtaBewypYBe2smn+LO3ybUEl73Zk2Vz87O7ALVr71ozL27hZRuy6xa3UDqrd3EQ9fX+1hU8of3+nZKj4rEJmgoD4H5Mrpwrt9qYDEEdGWLmIUK6sgdB04t89/1O/w1cDnyilFU="
 SECRET = "0bc2c65b05e01105c74761927968c1cb"
 
