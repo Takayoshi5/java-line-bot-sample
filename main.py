@@ -9,7 +9,7 @@ from linebot.models import (
  MessageEvent, TextMessage, TextSendMessage
 )
 
-from jinja2 import Markup
+#from jinja2 import Markup
 
 
 app = Flask(__name__)
